@@ -26,7 +26,7 @@ jobs:
 
           # ---- CONFIGURE EXEMPTIONS HERE ----
           git diff --name-only origin/main \
-            | grep -Ev '^(node_modules/|dist/|build/|\.github/)' \
+            | grep -Ev '^(LICENSE|little_demo.gif|\.github/|docs)' \
             > files.txt || true
 
           if [ ! -s files.txt ]; then
