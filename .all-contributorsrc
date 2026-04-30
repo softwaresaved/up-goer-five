@@ -18,6 +18,15 @@
       ]
     },
     {
+      "login": "Llannelongue",
+      "name": "Loïc Lannelongue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22586038?v=4",
+      "profile": "http://www.lannelongue-group.org",
+      "contributions": [
+        "projectManagement"
+      ]
+    },
+    {
       "login": "pgmccann",
       "name": "Paddy McCann",
       "avatar_url": "https://avatars.githubusercontent.com/u/1590010?v=4",
@@ -35,7 +44,50 @@
       "profile": "http://www.software.ac.uk",
       "contributions": [
         "content",
+        "research",
+        "ideas"
+      ]
+    },
+    {
+      "login": "wong-hl",
+      "name": "Hui Ling Wong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71387295?v=4",
+      "profile": "https://hui-ling-wong.com/",
+      "contributions": [
+        "ideas",
         "research"
+      ]
+    },
+    {
+      "login": "colinsauze",
+      "name": "Colin Sauze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1053628?v=4",
+      "profile": "https://colinsauze.github.io/",
+      "contributions": [
+        "ideas",
+        "research"
+      ]
+    },
+    {
+      "login": "sfmig",
+      "name": "sfmig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33267254?v=4",
+      "profile": "http://sfmig.github.io",
+      "contributions": [
+        "ideas",
+        "research",
+        "content"
+      ]
+    },
+    {
+      "login": "sdruskat",
+      "name": "Stephan Druskat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3007126?v=4",
+      "profile": "http://sdruskat.net",
+      "contributions": [
+        "ideas",
+        "research",
+        "code"
       ]
     }
   ]
