@@ -17,13 +17,16 @@ import yaml
 
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
-# get data directory (using getcwd() is needed to support running example in generated IPython notebook)
+# Get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
+
+# Path to the canonical YAML
+defs_yaml_path = "../docs/_data/terms.yml"
 
 
 def parse_all_definitions():
     """Get all word definitions from the YAML defintions."""
-    with open("dummy_yaml/dummy_definitions.yaml", "r") as f:
+    with open(defs_yaml_path, "r") as f:
         data = yaml.load(f, Loader=yaml.SafeLoader)
 
     # Print the values as a dictionary
