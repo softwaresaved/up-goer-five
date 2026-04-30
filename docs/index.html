@@ -3,12 +3,10 @@ title: Up Goer Five
 layout: splash
 ---
 
-{% include figure popup=true image_path="/assets/images/rse.png" alt="Drawing showing a sceptical person asking a person working on a computer 'You do what?', and the other person answering 'I am a world questioning computer person' which is expressing the answer 'I am an RSE, Research Software Engineer' in the top 1,000 most used word in English." %}
-
 
 <div class="feature__wrapper">
   {% for item in site.data.terms %}
-    <div class="feature__item" style="background-color: lightgray; margin-bottom: 10px; border-radius: 8px;">
+    <div class="feature__item">
       <div class="archive__item">
 
         {% if item.image_path %}
@@ -19,7 +17,7 @@ layout: splash
 
         <div class="archive__item-body">
           <!--<h2 class="archive__item-title">-->
-            <b><a href="{{ item.url }}">{{ item.term }}</a></b>
+            <a href="{{ item.url }}">{{ item.term }}</a>
           </h2>
           <div class="archive__item-excerpt">
             <h3>{{ item.definition }}</h3><br/><p>{{ item.description }}</p>
