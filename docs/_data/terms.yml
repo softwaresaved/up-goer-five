@@ -1,25 +1,54 @@
-# _data/features.yml
+# _data/terms.yml
 
-- title: "Term 1"
-  excerpt: "Longer description of the term."
-  url: "/feature-one/"
+- term: "Software"
+  definition: "Written steps to control a computer wrapped together"
+  description: ""
 
-- title: "Term 2"
-  excerpt: "Longer description of the term."
-  url: "/feature-one/"
+- term: "Research (process)"
+  definition: "A way to understand and look for new facts"
+  description: ""
 
-- title: "Term 3"
-  excerpt: "Longer description of the term."
-  url: "/feature-one/"
+- term: "Research (findings)"
+  definition: "Piece of work sharing new facts made from ways to understand"
+  description: "Piece of work sharing new facts made from ways to understand the world"
 
-- title: "Term 4"
-  excerpt: "Longer description of the term."
-  url: "/feature-one/"
+- term: "Scientist"
+  definition: "Someone who looks at the world around them and asks questions like, why is it the way it is or how does it work"
+  description: ""
 
-- title: "Term 5"
-  excerpt: "Longer description of the term."
-  url: "/feature-one/"
+- term: "Data"
+  definition: "Numbers and words that can be used to answer questions"
+  description: "Pieces of things like numbers, words, pictures, or sounds. People work on these pieces to sort them and give them clear ideas, decide things and fix problems."
 
-- title: "Term 6"
-  excerpt: "Longer description of the term."
-  url: "/feature-one/"
+- term: "University"
+  definition: "School for students and teachers to learn how to understand and look for new facts"
+  description: ""
+
+- term: "Community"
+  definition: "Group of people who have a shared interest or want or have something the same"
+  description: ""
+
+- term: "Collaborations Workshop"
+  definition: "Lots of different people working together meeting"
+  description: "An often exciting and sometimes fun meeting bringing many different people to have interesting conversations to change the world and themselves"
+
+- term: "Research Institution"
+  definition: "A place where people work to understand more about the world"
+  description: "A place where people work to understand more about the world (and look for new facts)"
+
+- term: "Manager"
+  definition: "A person who manages other people"
+  description: "A person who helps a group of people work well together. They plan what work needs to be done, give jobs to people, and make sure everything stays on track."
+
+- term: "Principal Investigator"
+  definition: "Money-getting for understanding person"
+  description: "I lead a group of different people who work to understand the world or people by looking for new facts. My work is to get money to let us do this, and make sure that we do it in a good way so that others can learn from it."
+
+- term: "Research Community Manager"
+  definition: "World questioning people grouper"
+  description: "I lead a group of different people who work to understand the world or people by looking for new facts. My work is to get money to let us do this, and make sure that we do it in a good way so that others can learn from it."
+
+- term: "Research Software Engineer"
+  definition: "World Questioning Computer Person"
+  description: "I am a person who writes computer work to help find answers for a question. My work is to build and fix computer work used in studies. I make sure they work and share it with other people to use."
+  
