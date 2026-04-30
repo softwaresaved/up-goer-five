@@ -39,6 +39,7 @@ jobs:
 
           echo "Extracting words..."
           xargs cat < files.txt \
+            | sed '/<!-- ALL-CONTRIBUTORS-LIST:START/,/<!-- ALL-CONTRIBUTORS-LIST:END/d' \
             | tr -cs 'a-zA-Z' '\n' \
             | tr '[:upper:]' '[:lower:]' \
             > all_words.txt
