@@ -1,0 +1,69 @@
+{
+  "projectName": "up-goer-five",
+  "projectOwner": "softwaresaved",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "SaranjeetKaur",
+      "name": "Saranjeet Kaur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28556616?v=4",
+      "profile": "https://github.com/SaranjeetKaur",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Llannelongue",
+      "name": "Loïc Lannelongue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22586038?v=4",
+      "profile": "http://www.lannelongue-group.org",
+      "contributions": [
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "pgmccann",
+      "name": "Paddy McCann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1590010?v=4",
+      "profile": "https://orcid.org/0000-0002-9324-2775",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "npch",
+      "name": "Neil Chue Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1507151?v=4",
+      "profile": "http://www.software.ac.uk",
+      "contributions": [
+        "content",
+        "research"
+      ]
+    },
+    {
+      "login": "wong-hl",
+      "name": "Hui Ling Wong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71387295?v=4",
+      "profile": "https://hui-ling-wong.com/",
+      "contributions": [
+        "ideas",
+        "research"
+      ]
+    },
+    {
+      "login": "colinsauze",
+      "name": "Colin Sauze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1053628?v=4",
+      "profile": "https://colinsauze.github.io/",
+      "contributions": [
+        "ideas",
+        "research"
+      ]
+    }
+  ]
+}
