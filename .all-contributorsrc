@@ -76,6 +76,17 @@
         "research",
         "content"
       ]
+    },
+    {
+      "login": "sdruskat",
+      "name": "Stephan Druskat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3007126?v=4",
+      "profile": "http://sdruskat.net",
+      "contributions": [
+        "ideas",
+        "research",
+        "code"
+      ]
     }
   ]
 }
