@@ -32,7 +32,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1590010?v=4",
       "profile": "https://orcid.org/0000-0002-9324-2775",
       "contributions": [
-        "content"
+        "content",
+        "ideas",
+        "research"
       ]
     },
     {
@@ -86,6 +88,43 @@
         "ideas",
         "research",
         "code"
+      ]
+    },
+    {
+      "login": "jshng-glasgow",
+      "name": "jshng-glasgow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145018993?v=4",
+      "profile": "https://github.com/jshng-glasgow",
+      "contributions": [
+        "ideas",
+        "research",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "RayStick",
+      "name": "Rachael Stickland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50215726?v=4",
+      "profile": "https://github.com/RayStick",
+      "contributions": [
+        "ideas",
+        "research",
+        "content",
+        "review",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "tsmbland",
+      "name": "Tom Bland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23723407?v=4",
+      "profile": "https://github.com/tsmbland",
+      "contributions": [
+        "ideas",
+        "research",
+        "content",
+        "review"
       ]
     }
   ]
