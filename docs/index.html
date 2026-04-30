@@ -8,7 +8,7 @@ layout: splash
 
 <div class="feature__wrapper">
   {% for item in site.data.terms %}
-    <div class="feature__item">
+    <div class="feature__item" style="background-color: lightgray; margin-bottom: 10px; border-radius: 8px;">
       <div class="archive__item">
 
         {% if item.image_path %}
@@ -19,7 +19,7 @@ layout: splash
 
         <div class="archive__item-body">
           <!--<h2 class="archive__item-title">-->
-            <a href="{{ item.url }}">{{ item.term }}</a>
+            <b><a href="{{ item.url }}">{{ item.term }}</a></b>
           </h2>
           <div class="archive__item-excerpt">
             <h3>{{ item.definition }}</h3><br/><p>{{ item.description }}</p>
