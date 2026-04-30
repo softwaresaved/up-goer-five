@@ -24,7 +24,7 @@
       "profile": "http://www.lannelongue-group.org",
       "contributions": [
         "projectManagement"
-        ]
+      ]
     },
     {
       "login": "pgmccann",
@@ -42,6 +42,16 @@
       "profile": "http://www.software.ac.uk",
       "contributions": [
         "content",
+        "research"
+      ]
+    },
+    {
+      "login": "wong-hl",
+      "name": "Hui Ling Wong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71387295?v=4",
+      "profile": "https://hui-ling-wong.com/",
+      "contributions": [
+        "ideas",
         "research"
       ]
     }
