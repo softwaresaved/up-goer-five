@@ -1,4 +1,4 @@
-# Computer People Things
+# Explainer of Words for Computer People and Things
 
 ![Animation showing the use of Up Goer Five editor to define a scientist or research software engineer.](little_demo.gif)
 
