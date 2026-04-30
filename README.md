@@ -25,4 +25,15 @@ Thing to check if you can explain a hard idea using only the ten hundred most us
 
 The things in this store of steps, to control a computer, can be used by other people using the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) way of sharing. This lets you share, use again, and change these things as you would like, as long as you keep our names and don't get us in trouble if this isn't quite right.
 
+# Who made this?
 
+This was made at [CW26](https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26), an often exciting and sometimes fun meeting bringing many different people to have interesting conversations to change the world and themselves. The people who have helped make this are:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
