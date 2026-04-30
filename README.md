@@ -36,6 +36,7 @@ This was made at [CW26](https://www.software.ac.uk/workshop/collaborations-works
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SaranjeetKaur"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt="Saranjeet Kaur"/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#content-SaranjeetKaur" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.software.ac.uk"><img src="https://avatars.githubusercontent.com/u/1507151?v=4?s=100" width="100px;" alt="Neil Chue Hong"/><br /><sub><b>Neil Chue Hong</b></sub></a><br /><a href="#content-npch" title="Content">🖋</a> <a href="#research-npch" title="Research">🔬</a></td>
     </tr>
   </tbody>
 </table>
