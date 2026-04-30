@@ -6,4 +6,9 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+$link-color:         #c44536;
+$link-color-hover:   #933428; // ~25% black mixed in
+$link-color-visited: #d07469; // ~25% white mixed in
+
 @import "minimal-mistakes"; // main partials
