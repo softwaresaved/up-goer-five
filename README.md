@@ -36,6 +36,7 @@ This was made at [CW26](https://www.software.ac.uk/workshop/collaborations-works
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SaranjeetKaur"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt="Saranjeet Kaur"/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#content-SaranjeetKaur" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.lannelongue-group.org"><img src="https://avatars.githubusercontent.com/u/22586038?v=4?s=100" width="100px;" alt="Loïc Lannelongue"/><br /><sub><b>Loïc Lannelongue</b></sub></a><br /><a href="#projectManagement-Llannelongue" title="Project Management">📆</a></td>
     </tr>
   </tbody>
 </table>
