@@ -1,0 +1,25 @@
+# _data/features.yml
+
+- title: "Term 1"
+  excerpt: "Longer description of the term."
+  url: "/feature-one/"
+
+- title: "Term 2"
+  excerpt: "Longer description of the term."
+  url: "/feature-one/"
+
+- title: "Term 3"
+  excerpt: "Longer description of the term."
+  url: "/feature-one/"
+
+- title: "Term 4"
+  excerpt: "Longer description of the term."
+  url: "/feature-one/"
+
+- title: "Term 5"
+  excerpt: "Longer description of the term."
+  url: "/feature-one/"
+
+- title: "Term 6"
+  excerpt: "Longer description of the term."
+  url: "/feature-one/"

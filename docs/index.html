@@ -1,16 +1,29 @@
 ---
+title: Up Goer Five
 layout: splash
-<!--author_profile: true-->
-
-feature_row:
-  - title: "Term 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Term 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Term 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Term 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-{% include feature_row %}
+<div class="feature__wrapper">
+  {% for item in site.data.terms %}
+    <div class="feature__item">
+      <div class="archive__item">
+
+        {% if item.image_path %}
+        <div class="archive__item-teaser">
+          <img src="{{ item.image_path }}" alt="{{ item.title }}">
+        </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          <!--<h2 class="archive__item-title">-->
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          </h2>
+          <div class="archive__item-excerpt">
+            <p>{{ item.excerpt }}</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  {% endfor %}
+</div>
