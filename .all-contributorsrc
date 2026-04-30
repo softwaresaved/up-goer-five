@@ -42,7 +42,8 @@
       "profile": "http://www.software.ac.uk",
       "contributions": [
         "content",
-        "research"
+        "research",
+        "ideas"
       ]
     },
     {
@@ -63,6 +64,28 @@
       "contributions": [
         "ideas",
         "research"
+      ]
+    },
+    {
+      "login": "sfmig",
+      "name": "sfmig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33267254?v=4",
+      "profile": "http://sfmig.github.io",
+      "contributions": [
+        "ideas",
+        "research",
+        "content"
+      ]
+    },
+    {
+      "login": "sdruskat",
+      "name": "Stephan Druskat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3007126?v=4",
+      "profile": "http://sdruskat.net",
+      "contributions": [
+        "ideas",
+        "research",
+        "code"
       ]
     }
   ]
