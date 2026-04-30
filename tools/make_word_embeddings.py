@@ -1,0 +1,18 @@
+from sentence_transformers import SentenceTransformer
+import argparse
+import numpy as np
+
+def main(path):
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+    words = []
+    with open(path, 'r') as f:
+        for line in f:
+            words.append(line.strip())
+    word_embeddings = model.encode(words)
+    np.save('tools/data/word_embeddings.npy', word_embeddings)
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('path', help='Path to the word list file')
+    args = parser.parse_args()
+    main(args.path)
