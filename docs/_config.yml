@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Stuff explainer"
+title                    : "Computer People Things"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Explaining Work with Computers to Find Things Out"
 name                     : "Your Name"
 description              : "Explains stuff about understanding and finding new facts with computers."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
