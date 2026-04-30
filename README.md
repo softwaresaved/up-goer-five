@@ -1,4 +1,7 @@
 # Computer People Things
+
+![Animation showing the use of Up Goer Five editor to define a scientist or research software engineer.](little_demo.gif)
+
 ## Explaining Work with Computers to Find Things Out
 
 We use our brains to think of different ways to tell computers to do what we want, to help us understand things about the world or about us. A lot of people do not understand what we do. So, we want to explain what we do!
