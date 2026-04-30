@@ -3,7 +3,7 @@ import argparse
 import numpy as np
 
 def main(phrase_1, phrase_2):
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    model = SentenceTransformer('nomic-ai/nomic-embed-text-v1')
     embedding_1 = model.encode([phrase_1])[0]
     embedding_2 = model.encode([phrase_2])[0]
     similarity = np.dot(embedding_1, embedding_2) / (np.linalg.norm(embedding_1) * np.linalg.norm(embedding_2))

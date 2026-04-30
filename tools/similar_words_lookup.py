@@ -3,7 +3,7 @@ import argparse
 import numpy as np
 
 def main(query_word, embeddings_path='tools/data/word_embeddings.npy', words_path='tools/data/word_list.txt'):
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    model = SentenceTransformer('nomic-ai/nomic-embed-text-v1')
     word_embeddings = np.load(embeddings_path)
     with open(words_path, 'r') as f:
         words = [line.strip() for line in f]    

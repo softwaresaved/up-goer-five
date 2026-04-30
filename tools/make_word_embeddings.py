@@ -3,7 +3,7 @@ import argparse
 import numpy as np
 
 def main(path):
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    model = SentenceTransformer('nomic-ai/nomic-embed-text-v1')
     words = []
     with open(path, 'r') as f:
         for line in f:
