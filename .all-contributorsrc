@@ -126,6 +126,17 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "ipiriyan2002",
+      "name": "Piriyan Karu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44897187?v=4",
+      "profile": "https://github.com/ipiriyan2002",
+      "contributions": [
+        "ideas",
+        "research",
+        "content"
+      ]
     }
   ]
 }
