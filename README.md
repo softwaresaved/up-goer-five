@@ -10,7 +10,7 @@ We want to explain to people that do not work with computers as well as to peopl
 
 # Things to help you understand
 
-https://splasho.com/upgoer5/
+Thing to check if you can explain a hard idea using only the ten hundred most used words by typing in a box: https://splasho.com/upgoer5/
 
 # How is this shared so you can use it?
 
