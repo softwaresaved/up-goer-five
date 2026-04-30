@@ -65,7 +65,7 @@ def generate_wordcloud(text):
     for ax in axes:
         ax.set_axis_off()
     plt.show()
-    fig.savefig("definitions_word_cloud.png")
+    fig.savefig("images/definitions_word_cloud.png")
 
 
 if __name__ == "__main__":
