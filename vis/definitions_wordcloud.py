@@ -60,13 +60,11 @@ def generate_wordcloud(text):
     image_colors = ImageColorGenerator(alice_coloring)
 
     # show
-    fig, axes = plt.subplots(1, 2)
+    fig, axes = plt.subplots(1, 1)
     # recolor wordcloud and show
     # we could also give color_func=image_colors directly in the constructor
-    axes[0].imshow(wc.recolor(color_func=image_colors), interpolation="bilinear")
-    axes[1].imshow(alice_coloring, cmap=plt.cm.gray, interpolation="bilinear")
-    for ax in axes:
-        ax.set_axis_off()
+    axes.imshow(wc.recolor(color_func=image_colors), interpolation="bilinear")
+    axes.set_axis_off()
     plt.show()
     fig.savefig("images/definitions_word_cloud.png")
 
